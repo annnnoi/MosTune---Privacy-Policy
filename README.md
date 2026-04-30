@@ -1,5 +1,5 @@
 **MosTune Privacy Policy**
-**Effective Date: February 2026**
+**Effective Date: April 2026**
 
 Thank you for choosing MosTune. This Privacy Policy outlines how data is handled when you use the MosTune Discord bot. By adding or interacting with MosTune, you agree to the terms described in this policy.
 
@@ -65,7 +65,7 @@ This Privacy Policy may be revised from time to time. Continued use of MosTune a
 
 ### 7. Support & Contact
 
-For questions, concerns, or requests related to data usage, please reach out through the MosTune Support Server.
+For questions, concerns, or requests related to data usage, please reach out through the MosTune Support Server: https://discord.gg/TJjQ6dS8ZW.
 
 ---
 
